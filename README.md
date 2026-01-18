@@ -1,11 +1,4 @@
-<think>
-First, the user has provided a GitHub README profile in HTML/Markdown format. It looks like a template from github-profile-readme-generator. They want me to "make it clean and best just" – probably meaning to clean it up and make it the best version.
 
-
-## Reviewing User Request  
-- The user provided a GitHub README profile in HTML/Markdown, likely from github-profile-readme-generator.  
-- They asked to "make it clean and best just," interpreted as cleaning up and optimizing the profile.
-</think>```markdown
 <h1 align="center">Hi 👋, I'm Bibek Wagle</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
