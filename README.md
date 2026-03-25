@@ -36,7 +36,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bibek1619&show_icons=true&theme=dark" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Bibek1619&theme=dark" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Bibek1619&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
