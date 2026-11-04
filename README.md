@@ -15,9 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Learning **MERN Stack & Data Analytics**
+- 🌱  **Software Developer & Data Analytics**
 - 💻 Building **Full Stack Apps & APIs**
-- 🚀 Focused on **clean code & UX**
 - 📫 Email: **waglebibek85@gmail.com**
 
 ---
